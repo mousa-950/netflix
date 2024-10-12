@@ -7,7 +7,7 @@ class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Colors.red,
       appBar:AppBar(),
         body:Column(
           mainAxisAlignment: MainAxisAlignment.start,
